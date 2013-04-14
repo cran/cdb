@@ -1,0 +1,8 @@
+319112f0f530a3b78a4bc86a23332502 *DESCRIPTION
+655756ee29b4816667bf6c95676e17b8 *NAMESPACE
+efa530582d35e804764553c00767c97a *R/read.cdb.R
+8f662dd9cf627d72e5201ce3e71fa47c *R/write.cdb.R
+8639e5b2234830a47ba6692017054b3e *inst/extdata/example.cdb
+ec4e25c9bc405ef7c668c57fb18a0649 *man/cdb-package.Rd
+d1e27a23c4f189adaa8f493cfdc11ddc *man/read.cdb.Rd
+3eae73659f9eff8b0c5df3e05483fa0c *man/write.cdb.Rd
